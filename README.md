@@ -43,3 +43,10 @@ This repository contains answers and examples for common Java interview question
 
     - Feel free to provide comments or reviews on these snippets.
 
+---
+
+## Author
+
+**JANARDHAN REDDY NAGAM**  
+Senior Technical Lead (Java and its flavours, cloud expert)  
+[LinkedIn](https://www.linkedin.com/in/janardhan-reddy-nagam-127656177/)
