@@ -1,4 +1,4 @@
-package com.nagam.interview.example.java.stringscollections.stringvsstringbuildervsstringbuffer;
+package com.nagam.interview.example.java.strings;
 
 /**
  * This class demonstrates the differences between String, StringBuilder, and StringBuffer in Java.
